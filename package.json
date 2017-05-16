@@ -47,6 +47,7 @@
   },
   "homepage": "https://github.com/stoeffel/redux-elm-middleware#readme",
   "dependencies": {
+    "babel-cli": "^6.24.1",
     "camelcase": "3.0.0"
   },
   "devDependencies": {
